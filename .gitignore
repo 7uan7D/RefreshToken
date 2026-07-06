@@ -1,0 +1,39 @@
+# Visual Studio cache and user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet packages
+packages/
+!packages/build/
+*.nupkg
+
+# Logs and diagnostics
+*.log
+TestResult*/
+
+# Local database files
+*.mdf
+*.ldf
+App_Data/*.mdf
+App_Data/*.ldf
+
+# Generated and temporary files
+*.cache
+*.pdb
+*.tmp
+*.temp
+
+# IDE and tooling
+_ReSharper*/
+*.DotSettings.user
